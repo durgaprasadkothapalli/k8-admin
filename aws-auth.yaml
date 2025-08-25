@@ -33,3 +33,8 @@ data:
       username: suresh
       groups:
         - system:masters
+mapUsers: |
+  - userarn: arn:aws:iam::324874112366:user/suresh
+    username: suresh
+    groups:
+      - system:masters
